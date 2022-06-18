@@ -2,7 +2,8 @@
 
 This project solves the calculation problem of Spherical Bessel function 
 
-<img src="https://render.githubusercontent.com/render/math?math=j_n(z) = \sqrt{\frac{\pi}{2z}J_{n+1/2}(z)}">
+<img src="https://latex.codecogs.com/svg.image?j_n(z) = \sqrt{\frac{\pi}{2z}J_{n+1/2}(z)}" />
+
 
 ## Usage the class
 
