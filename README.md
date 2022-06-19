@@ -15,4 +15,4 @@ This project solves the calculation problem of Spherical Bessel function
 8.182561452571242
 ```
 
-Calculus method was realized with approach represented [there](https://scipy-cookbook.readthedocs.io/items/SphericalBesselZeros.html)
+The method was realized with approach which was represented [there](https://scipy-cookbook.readthedocs.io/items/SphericalBesselZeros.html)
