@@ -1,4 +1,4 @@
-# spherical-bessel-zeros
+# Spherical Bessel Function Zeros Python
 
 This project solves the calculation problem of Spherical Bessel function 
 
